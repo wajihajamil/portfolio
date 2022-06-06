@@ -142,7 +142,7 @@ a {
     color: #fff;
     font-weight: 700; }
     .unslate_co--site-nav .unslate_co--site-logo span {
-      color: #b2dfdb; }
+      color: #E1BEE7; }
   .unslate_co--site-nav .site-nav-ul, .unslate_co--site-nav .site-nav-ul-none-onepage {
     text-align: center; }
     .unslate_co--site-nav .site-nav-ul, .unslate_co--site-nav .site-nav-ul > li, .unslate_co--site-nav .site-nav-ul-none-onepage, .unslate_co--site-nav .site-nav-ul-none-onepage > li {
@@ -381,11 +381,11 @@ a {
           display: block;
           color: #000; }
           .unslate_co--site-nav.scrolled .site-nav-ul > li > a:hover, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a:hover {
-            color: #b2dfdb; }
+            color: #b3b3d4; }
           .unslate_co--site-nav.scrolled .site-nav-ul > li > a:before, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a:before {
             background: #fff; }
           .unslate_co--site-nav.scrolled .site-nav-ul > li > a.active, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a.active {
-            color: #b2dfdb; }
+            color: #E1BEE7; }
             .unslate_co--site-nav.scrolled .site-nav-ul > li > a.active:before, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a.active:before {
               background: #fff; }
     .unslate_co--site-nav.scrolled.awake {
@@ -462,7 +462,7 @@ a {
       padding-right: 20px;
       color: #000; }
       .unslate_co--site-mobile-menu ul a:hover, .unslate_co--site-mobile-menu ul li a:hover {
-        color: #b2dfdb; }
+        color: #CE93D8; }
   .unslate_co--site-mobile-menu ul > li > ul > li > a {
     position: relative;
     padding-left: 30px;
